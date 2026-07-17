@@ -12,4 +12,4 @@ Only releases signed with the certificate documented by the canonical source rep
 
 - Support / issues: https://github.com/samson910022/pixelify-google-photos-modern/issues
 - Source repository: https://github.com/samson910022/pixelify-google-photos-modern
-- Official module page (after index refresh): https://modules.lsposed.org/module/io.github.samson910022.pixelifyphotos
+- Official module page: https://modules.lsposed.org/module/io.github.samson910022.pixelifyphotos
